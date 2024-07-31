@@ -1,0 +1,36 @@
+{
+  "name": "learning_react",
+  "version": "1.0.0",
+  "description": "react is important ",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshshivam02/namaste_React.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "harsh shivam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshshivam02/namaste_React/issues"
+  },
+  "homepage": "https://github.com/harshshivam02/namaste_React#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "Browserlist": {
+    "browsers": [
+      "last 2 chrome versions"
+    ]
+  }
+}
